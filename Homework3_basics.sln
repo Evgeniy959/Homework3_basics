@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Сount_space", "Сount_space\Сount_space.csproj", "{8D68EC4F-7825-4AC3-8BF1-A7E36BA4FB60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucky_ticket", "Lucky_ticket\Lucky_ticket.csproj", "{88E9A7EC-2EAA-453A-9427-A23574AC4636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D68EC4F-7825-4AC3-8BF1-A7E36BA4FB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D68EC4F-7825-4AC3-8BF1-A7E36BA4FB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D68EC4F-7825-4AC3-8BF1-A7E36BA4FB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D68EC4F-7825-4AC3-8BF1-A7E36BA4FB60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E9A7EC-2EAA-453A-9427-A23574AC4636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E9A7EC-2EAA-453A-9427-A23574AC4636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E9A7EC-2EAA-453A-9427-A23574AC4636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E9A7EC-2EAA-453A-9427-A23574AC4636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C0BC54-8AA7-4583-8B4F-2912B62F34CA}
+	EndGlobalSection
+EndGlobal
